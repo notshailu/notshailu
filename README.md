@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailendra Rajpoot</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-- 🔭 I’m currently working on (tastizo.com)
+Founder - Ishsys.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
