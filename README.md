@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shailendra Rajpoot</h1>
-<h3 align="center">Founder - Ishsys.in</h3>
+<h1 align="center"> Shailendra Rajpoot</h1>
+<h3 align="center"> Founder - Ishsys.in</h3>
 
-Founder - Ishsys.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
